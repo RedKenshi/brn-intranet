@@ -12,9 +12,9 @@
   box-shadow: 0px 0.5rem 1rem rgba(134, 141, 164, 0.21);
   gap:.25rem;
 }
-.simple-kpi h1,p,b{
+.tile-environ h1,p,b{
   margin:0;
 }
-.simple-kpi p{
+.tile-environ p{
   color: #888888;
 }
