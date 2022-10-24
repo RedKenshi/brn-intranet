@@ -1,23 +1,22 @@
 .simple-kpi{
-    font-size: .75rem;
-    background: #fff;
-    max-width: 9rem;
-    padding: 1rem 1.25rem;
-    border: .1rem solid #DBDBDB;
-    border-radius: 1rem;
-    display: flex;
-    align-items: flex-start;
-    justify-items: flex-start;
-    flex-direction: column;
-    gap: .5rem;
-  }
-  
-  .simple-kpi h1,p{
-    margin:0;
-  }
-  
-  .simple-kpi p{
-  color:  #888888;
-  }
-  
-  
+  font-size: .75rem;
+  background: #fff;
+  max-width: 9rem;
+  padding: 1rem 1.25rem;
+  border: .1rem solid #DBDBDB;
+  border-radius: 1rem;
+  display: flex;
+  align-items: flex-start;
+  justify-items: flex-start;
+  flex-direction: column;
+  gap: .5rem;
+}
+
+.simple-kpi h1,p{
+  margin:0;
+}
+
+.simple-kpi p{
+color:  #888888;
+}
+

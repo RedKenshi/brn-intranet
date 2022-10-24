@@ -9,17 +9,12 @@
   align-items: flex-start;
   justify-items: flex-start;
   flex-direction: column;
-  box-shadow: 0 .25rem 1.5rem rgba(134, 141, 164, 0.21);
-	gap: .5;
+  box-shadow: 0px 0.5rem 1rem rgba(134, 141, 164, 0.21);
+  gap:.25rem;
 }
-.tile-environ h1,
-.tile-environ p,
-.tile-environ b{
-  text-overflow: clip;
+.simple-kpi h1,p,b{
+  margin:0;
 }
-.tile-environ p{
+.simple-kpi p{
   color: #888888;
-}
-.tile-environ b{
-  margin-bottom: 0.6rem;
 }
