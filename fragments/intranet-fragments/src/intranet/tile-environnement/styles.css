@@ -1,0 +1,25 @@
+.tile-environ {
+  font-size: .75rem;
+  background: #fff;
+  max-width: 19rem;
+  padding: 1rem 1.25rem;
+  border-radius: 1rem;
+  border-top: .2rem solid #EA0707;
+  display: flex;
+  align-items: flex-start;
+  justify-items: flex-start;
+  flex-direction: column;
+  box-shadow: 0px 4.81859px 25.0567px rgba(134, 141, 164, 0.21);
+	gap: .5;
+}
+.tile-environ h1,
+.tile-environ p,
+.tile-environ b{
+  text-overflow: clip;
+}
+.tile-environ p{
+  color: #888888;
+}
+.tile-environ b{
+  margin-bottom: 0.6rem;
+}
