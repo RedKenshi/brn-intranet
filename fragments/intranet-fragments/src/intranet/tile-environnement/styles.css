@@ -9,7 +9,7 @@
   align-items: flex-start;
   justify-items: flex-start;
   flex-direction: column;
-  box-shadow: 0px 4.81859px 25.0567px rgba(134, 141, 164, 0.21);
+  box-shadow: 0 .25rem 1.5rem rgba(134, 141, 164, 0.21);
 	gap: .5;
 }
 .tile-environ h1,
