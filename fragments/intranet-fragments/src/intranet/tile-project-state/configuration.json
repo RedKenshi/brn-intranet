@@ -3,10 +3,36 @@
     {
       "fields": [
         {
-          "dataType": "object",
-          "label": "text-color",
-          "name": "textColor",
-          "type": "colorPalette"
+          "dataType": "string",
+          "label": "Tag Status",
+          "name": "status",
+          "type": "select",
+          "defaultValue": "brn-primary",
+          "typeOptions": {
+            "validValues": [
+              {
+                "label": "Primaire",
+                "value": "brn-primary"
+              },{
+                "label": "Secondary",
+                "value": "brn-secondary"
+              },
+              {
+                "label": "Danger",
+                "value": "brn-danger"
+              },
+              {
+                "label": "Success",
+                "value": "brn-success"
+              },{
+                "label": "Warning",
+                "value": "brn-warning"
+              },{
+                "label": "Link",
+                "value": "brn-link"
+              }
+            ]
+          }
         }
       ]
     }
