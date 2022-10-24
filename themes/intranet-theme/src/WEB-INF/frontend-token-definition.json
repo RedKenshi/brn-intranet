@@ -1,0 +1,272 @@
+{
+    "frontendTokenCategories": [
+        {
+            "label": "Main colors",
+            "name": "mainColors",
+            "frontendTokenSets": [
+                {
+                    "label":"Primary",
+                    "name":"primary",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#00BDB0",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"primaryColor",
+                            "label":"Primary color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-primary"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#D6F5F3",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"primaryColorFadded",
+                            "label":"Primary color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-primary-fadded"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "label":"Secondary",
+                    "name":"secondary",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#6E6893",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"secondaryColor",
+                            "label":"Secondary color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-secondary"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#F2F0F9",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"secondaryColorFadded",
+                            "label":"Secondary color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-secondary-fadded"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "label":"Warning",
+                    "name":"warning",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#965E00",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"warningColor",
+                            "label":"Warning color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-warning"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#FFECCC",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"warningColorFadded",
+                            "label":"Warning color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-warning-fadded"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "label":"Danger",
+                    "name":"danger",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#D30000",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"dangerColor",
+                            "label":"Danger color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-danger"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#FFE0E0",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"dangerColorFadded",
+                            "label":"Danger color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-danger-fadded"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "label":"Success",
+                    "name":"success",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#007F00",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"successColor",
+                            "label":"Success color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-success"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#CDFFCD",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"successColorFadded",
+                            "label":"Success color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-success-fadded"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "label":"Link",
+                    "name":"link",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#4A4AFF",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"linkColor",
+                            "label":"Link color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-link"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#CFD1F6",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"linkColorFadded",
+                            "label":"Link color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-link-fadded"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Text colors",
+            "name": "textColors",
+            "frontendTokenSets": [
+                {
+                    "label": "Classic",
+                    "name": "classic",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#2c3e50",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"textColor",
+                            "label":"Text color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-text"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#b2bec3",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"textColor",
+                            "label":"Text color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-text-fadded"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#ecf0f1",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"textColorLight",
+                            "label":"Text color light",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-text-light"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },{
+            "label": "Neutrals colors",
+            "name": "neutralColors",
+            "frontendTokenSets": [
+                {
+                    "label":"Neutrals",
+                    "name":"neutrals",
+                    "frontendTokens": [
+                        {
+                            "defaultValue":"#ecf0f1",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"neutralLightColor",
+                            "label":"Neutral Light",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-neutral-light"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
