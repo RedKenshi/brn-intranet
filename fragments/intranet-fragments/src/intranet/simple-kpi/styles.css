@@ -1,4 +1,4 @@
-.simple-kpi{
+.brn-simple-kpi{
   font-size: .75rem;
   background: #fff;
   max-width: 9rem;
@@ -12,11 +12,11 @@
   gap: .5rem;
 }
 
-.simple-kpi h1,p{
+.brn-simple-kpi h1,p{
   margin:0;
 }
 
-.simple-kpi p{
-color:  #888888;
+.brn-simple-kpi p{
+  color:  #888888;
 }
 

@@ -3,6 +3,6 @@
   "configurationPath": "configuration.json",
   "htmlPath": "index.html",
   "jsPath": "main.js",
-  "name": "simple-kpi",
+  "name": "brn-simple-kpi",
   "type": "component"
 }
