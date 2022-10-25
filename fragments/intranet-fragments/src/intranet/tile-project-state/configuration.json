@@ -14,8 +14,8 @@
                 "label": "Primaire",
                 "value": "brn-primary"
               },{
-                "label": "Secondary",
-                "value": "brn-secondary"
+                "label": "Info",
+                "value": "brn-info"
               },
               {
                 "label": "Danger",

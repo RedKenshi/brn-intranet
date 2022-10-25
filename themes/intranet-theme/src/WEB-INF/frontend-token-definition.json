@@ -9,7 +9,7 @@
                     "name":"primary",
                     "frontendTokens": [
                         {
-                            "defaultValue":"#00BDB0",
+                            "defaultValue":"#00ccbe",
                             "editorType": "ColorPicker",
                             "type": "String",
                             "name":"primaryColor",
@@ -18,6 +18,19 @@
                                 {
                                     "type": "cssVariable",
                                     "value":"brn-primary"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#00BDB0",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"primaryColor",
+                            "label":"Primary color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-primary-text"
                                 }
                             ]
                         },
@@ -36,32 +49,45 @@
                         }
                     ]
                 },{
-                    "label":"Secondary",
-                    "name":"secondary",
+                    "label":"Info",
+                    "name":"info",
                     "frontendTokens": [
                         {
-                            "defaultValue":"#6E6893",
+                            "defaultValue":"#33BFFF",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"secondaryColor",
-                            "label":"Secondary color",
+                            "name":"infoColor",
+                            "label":"Warning color",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
-                                    "value":"brn-secondary"
+                                    "value":"brn-info"
                                 }
                             ]
                         },
                         {
-                            "defaultValue":"#F2F0F9",
+                            "defaultValue":"#009de6",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"secondaryColorFadded",
-                            "label":"Secondary color fadded",
+                            "name":"infoColor",
+                            "label":"Warning color",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
-                                    "value":"brn-secondary-fadded"
+                                    "value":"brn-info-text"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#ccefff",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"infoColorFadded",
+                            "label":"Warning color fadded",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-info-fadded"
                                 }
                             ]
                         }
@@ -71,7 +97,7 @@
                     "name":"warning",
                     "frontendTokens": [
                         {
-                            "defaultValue":"#965E00",
+                            "defaultValue":"#f39c12",
                             "editorType": "ColorPicker",
                             "type": "String",
                             "name":"warningColor",
@@ -80,6 +106,19 @@
                                 {
                                     "type": "cssVariable",
                                     "value":"brn-warning"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#965E00",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"warningColor",
+                            "label":"Warning color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-warning-text"
                                 }
                             ]
                         },
@@ -115,6 +154,19 @@
                             ]
                         },
                         {
+                            "defaultValue":"#D30000",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"dangerColor",
+                            "label":"Danger color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-danger-text"
+                                }
+                            ]
+                        },
+                        {
                             "defaultValue":"#FFE0E0",
                             "editorType": "ColorPicker",
                             "type": "String",
@@ -133,7 +185,7 @@
                     "name":"success",
                     "frontendTokens": [
                         {
-                            "defaultValue":"#007F00",
+                            "defaultValue":"#2ecc71",
                             "editorType": "ColorPicker",
                             "type": "String",
                             "name":"successColor",
@@ -146,7 +198,20 @@
                             ]
                         },
                         {
-                            "defaultValue":"#CDFFCD",
+                            "defaultValue":"#31BD00",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"successColor",
+                            "label":"Success color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-success-text"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#D4F7E8",
                             "editorType": "ColorPicker",
                             "type": "String",
                             "name":"successColorFadded",
@@ -164,7 +229,7 @@
                     "name":"link",
                     "frontendTokens": [
                         {
-                            "defaultValue":"#4A4AFF",
+                            "defaultValue":"#99f",
                             "editorType": "ColorPicker",
                             "type": "String",
                             "name":"linkColor",
@@ -173,6 +238,19 @@
                                 {
                                     "type": "cssVariable",
                                     "value":"brn-link"
+                                }
+                            ]
+                        },
+                        {
+                            "defaultValue":"#4A4AFF",
+                            "editorType": "ColorPicker",
+                            "type": "String",
+                            "name":"linkColor",
+                            "label":"Link color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value":"brn-link-text"
                                 }
                             ]
                         },
