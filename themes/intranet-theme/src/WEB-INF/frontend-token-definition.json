@@ -25,8 +25,8 @@
                             "defaultValue":"#00BDB0",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"primaryColor",
-                            "label":"Primary color",
+                            "name":"primaryColorText",
+                            "label":"Primary color text",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
@@ -69,8 +69,8 @@
                             "defaultValue":"#009de6",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"infoColor",
-                            "label":"Warning color",
+                            "name":"infoColorText",
+                            "label":"Warning color text",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
@@ -113,8 +113,8 @@
                             "defaultValue":"#965E00",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"warningColor",
-                            "label":"Warning color",
+                            "name":"warningColorText",
+                            "label":"Warning color text",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
@@ -157,8 +157,8 @@
                             "defaultValue":"#D30000",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"dangerColor",
-                            "label":"Danger color",
+                            "name":"dangerColorText",
+                            "label":"Danger color text",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
@@ -201,8 +201,8 @@
                             "defaultValue":"#31BD00",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"successColor",
-                            "label":"Success color",
+                            "name":"successColorText",
+                            "label":"Success color text",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
@@ -245,8 +245,8 @@
                             "defaultValue":"#4A4AFF",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"linkColor",
-                            "label":"Link color",
+                            "name":"linkColorText",
+                            "label":"Link color text",
                             "mappings": [
                                 {
                                     "type": "cssVariable",
@@ -283,8 +283,8 @@
                             "defaultValue":"#2c3e50",
                             "editorType": "ColorPicker",
                             "type": "String",
-                            "name":"textColor",
-                            "label":"Text color",
+                            "name":"textColorText",
+                            "label":"Text colo textr",
                             "mappings": [
                                 {
                                     "type": "cssVariable",

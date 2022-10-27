@@ -1,0 +1,41 @@
+
+{
+	"system": {
+	  "category": "calendar",
+	  "name": "A calendar",
+	  "fields": {
+		"fruit": {
+		  "default": "orange",
+		  "description": "fruit-help",
+		  "name": "fruit",
+		  "options": {
+			"apple": "an-apple",
+			"orange": "an-orange",
+			"pear": "a-pear"
+		  },
+		  "required": false,
+		  "type": "string"
+		}
+	  }
+	},
+	"portletInstance": {
+	  "fields": {
+		"themecolor": {
+		  "default": "primary",
+		  "description": "theme-color-help",
+		  "name": "themeColor",
+		  "options": {
+			"primary":"primary",
+			"info":"info",
+			"link":"link",
+			"success":"success",
+			"warning":"warning",
+			"danger":"danger"
+		  },
+		  "required": false,
+		  "type": "string"
+		}
+	  }
+	}
+  }
+  
