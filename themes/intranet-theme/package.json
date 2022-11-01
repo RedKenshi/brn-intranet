@@ -2,7 +2,9 @@
 	"name": "intranet-theme",
 	"version": "1.0.0",
 	"main": "package.json",
-	"keywords": ["liferay-theme"],
+	"keywords": [
+		"liferay-theme"
+	],
 	"liferayTheme": {
 		"baseTheme": "styled",
 		"fontAwesome": false,
