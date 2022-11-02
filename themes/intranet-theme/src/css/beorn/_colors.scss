@@ -1,0 +1,33 @@
+//TAG LIKE COLOR COMBINATION (a dark text on a light background)
+.brn-color-duo.brn-danger{
+    color: var(--brn-danger-text);
+    background-color: var(--brn-danger-fadded);
+}
+.brn-color-duo.brn-primary{
+    color: var(--brn-primary-text);
+    background-color: var(--brn-primary-fadded);
+}
+.brn-color-duo.brn-info{
+    color: var(--brn-info-text);
+    background-color: var(--brn-info-fadded);
+}
+.brn-color-duo.brn-link{
+    color: var(--brn-link-text);
+    background-color: var(--brn-link-fadded);
+}
+.brn-color-duo.brn-success{
+    color: var(--brn-success-text);
+    background-color: var(--brn-success-fadded);
+}
+.brn-color-duo.brn-warning{
+    color: var(--brn-warning-text);
+    background-color: var(--brn-warning-fadded);
+}
+
+//STAND ALONE COLOR APPLIED TO A BACKGROUND (like a button)
+.brn-color-bg.brn-danger{background-color: var(--brn-danger);}
+.brn-color-bg.brn-primary{background-color: var(--brn-primary);}
+.brn-color-bg.brn-info{background-color: var(--brn-info);}
+.brn-color-bg.brn-link{background-color: var(--brn-link);}
+.brn-color-bg.brn-success{background-color: var(--brn-success);}
+.brn-color-bg.brn-warning{background-color: var(--brn-warning);}
